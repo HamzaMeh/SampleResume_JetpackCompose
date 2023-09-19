@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ComposeLearning</string>
+    <string name="professional_summary">Professional Summary</string>
+    <string name="experiences">Experiences</string>
+    <string name="summary">Highly motivated Android Developer with 2+ years of experience in designing and developing
+user-friendly and efficient mobile applications. Proficient in Java, Kotlin, and Android SDK, and have a
+solid understanding of the Android ecosystem. Committed to delivering high-quality, innovative solutions
+and continuously learning to stay ahead of the latest industry trends.</string>
+    <string name="skills">Skills</string>
+    <string name="languages">Languages</string>
+    <string name="hobbies">Hobbies</string>
+</resources>
